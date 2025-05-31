@@ -39,9 +39,11 @@ This project explores the relationship between student habits and their exam per
 
 ## 📸 Sample Visualizations
 
-<img src="images/exam_distribution.png" width="400">
-<img src="images/correlation_heatmap.png" width="400">
-
+<img src="Barchart.png" width="400">
+<img src="Heatmap.png" width="400">
+<img src="Histrogram.png" width="400">
+<img src="Scatter plot.png" width="400">
+<img src="Student-DAshboard.png" width="400">
 ---
 
 ## 🚀 How to Run

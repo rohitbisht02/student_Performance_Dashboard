@@ -52,7 +52,4 @@ This project explores the relationship between student habits and their exam per
 2. Install dependencies: `pip install pandas matplotlib seaborn`
 3. Run the Jupyter Notebook to explore results
 
----
-
-## 📁 File Structure
 
